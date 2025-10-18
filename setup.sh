@@ -16,6 +16,7 @@ source ~/.bashrc
 # Install Node.js 20 via mise
 echo "📦 Installing Node.js 20..."
 /root/.local/bin/mise use -g node@20
+source ~/.bashrc
 
 # Install Claude Code CLI
 echo "🤖 Installing Claude Code CLI..."
