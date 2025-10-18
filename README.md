@@ -11,6 +11,14 @@ Automated setup script for a development machine with Claude Code and tmux confi
 
 ## Quick Start
 
+### One-line install
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/sethhorsley/machine-setup-raw/main/setup.sh | bash
+```
+
+### Manual install
+
 ```bash
 # Clone this repo
 git clone <your-repo-url>
